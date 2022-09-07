@@ -1,0 +1,4 @@
+repository "JogoCG@Oliveira@cloud"
+  path "/"
+    smartbranch "/main/Characters"   
+     
